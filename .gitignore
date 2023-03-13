@@ -1,3 +1,4 @@
 
 *.yml
 spring/demo/src/main/resources/application.yml
+*.yml
